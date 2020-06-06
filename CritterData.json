@@ -1,0 +1,1050 @@
+{
+	"Bitterling": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "900",
+		"Time": [["All day"]],
+		"Months": [[11,3]]
+	},
+	"Pale chub": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "200",
+		"Time": [[9,16]],
+		"Months": [["All year"]]
+	},
+	"Crucian carp": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "160",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Dace": {
+		"Location": "River",
+		"Size": "3",
+		"Value": "240",
+		"Time": [[16,9]],
+		"Months": [["All year"]]
+	},
+	"Carp": {
+		"Location": "Pond",
+		"Size": "4",
+		"Value": "300",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Koi": {
+		"Location": "Pond",
+		"Size": "4",
+		"Value": "4000",
+		"Time": [[16,9]],
+		"Months": [["All year"]]
+	},
+	"Goldfish": {
+		"Location": "Pond",
+		"Size": "1",
+		"Value": "1300",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Pop-eyed goldfish": {
+		"Location": "Pond",
+		"Size": "1",
+		"Value": "1300",
+		"Time": [[9,16]],
+		"Months": [["All year"]]
+	},
+	"Ranchu goldfish": {
+		"Location": "Pond",
+		"Size": "2",
+		"Value": "4500",
+		"Time": [[9,16]],
+		"Months": [["All year"]]
+	},
+	"Killifish": {
+		"Location": "Pond",
+		"Size": "1",
+		"Value": "300",
+		"Time": [["All day"]],
+		"Months": [[4,8]]
+	},
+	"Crawfish": {
+		"Location": "Pond",
+		"Size": "2",
+		"Value": "200",
+		"Time": [["All day"]],
+		"Months": [[4,9]]
+	},
+	"Soft-shelled turtle": {
+		"Location": "River",
+		"Size": "4",
+		"Value": "3750",
+		"Time": [[16,9]],
+		"Months": [[8,9]]
+	},
+	"Snapping turtle": {
+		"Location": "River",
+		"Size": "4",
+		"Value": "5000",
+		"Time": [[21,4]],
+		"Months": [[4,10]]
+	},
+	"Tadpole": {
+		"Location": "Pond",
+		"Size": "1",
+		"Value": "100",
+		"Time": [["All day"]],
+		"Months": [[3,7]]
+	},
+	"Frog": {
+		"Location": "Pond",
+		"Size": "2",
+		"Value": "120",
+		"Time": [["All day"]],
+		"Months": [[5,8]]
+	},
+	"Freshwater goby": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "400",
+		"Time": [[16,9]],
+		"Months": [["All year"]]
+	},
+	"Loach": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "400",
+		"Time": [["All day"]],
+		"Months": [[3,5]]
+	},
+	"Catfish": {
+		"Location": "Pond",
+		"Size": "4",
+		"Value": "800",
+		"Time": [[16,9]],
+		"Months": [[5,10]]
+	},
+	"Giant snakehead": {
+		"Location": "Pond",
+		"Size": "4",
+		"Value": "5500",
+		"Time": [[9,16]],
+		"Months": [[6,8]]
+	},
+	"Bluegill": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "180",
+		"Time": [[9,16]],
+		"Months": [["All year"]]
+	},
+	"Yellow perch": {
+		"Location": "River",
+		"Size": "3",
+		"Value": "300",
+		"Time": [["All day"]],
+		"Months": [[10,3]]
+	},
+	"Black bass": {
+		"Location": "River",
+		"Size": "4",
+		"Value": "320",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Tilapia": {
+		"Location": "River",
+		"Size": "3",
+		"Value": "800",
+		"Time": [["All day"]],
+		"Months": [[6,10]]
+	},
+	"Pike": {
+		"Location": "River",
+		"Size": "5",
+		"Value": "1800",
+		"Time": [["All day"]],
+		"Months": [[9,12]]
+	},
+	"Pond smelt": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "500",
+		"Time": [["All day"]],
+		"Months": [[12,2]]
+	},
+	"Sweetfish": {
+		"Location": "River",
+		"Size": "3",
+		"Value": "900",
+		"Time": [["All day"]],
+		"Months": [[7,9]]
+	},
+	"Cherry salmon": {
+		"Location": "River (Clifftop)",
+		"Size": "3",
+		"Value": "800",
+		"Time": [[16,9]],
+		"Months": [[3,6],[9,11]
+		]
+	},
+	"Char": {
+		"Location": "River (Clifftop)  Pond",
+		"Size": "3",
+		"Value": "3800",
+		"Time": [[16,9]],
+		"Months": [[3,6],[9,11]
+		]
+	},
+	"Golden trout": {
+		"Location": "River (Clifftop)",
+		"Size": "3",
+		"Value": "15000",
+		"Time": [[16,9]],
+		"Months": [[3,5],[9,11]
+		]
+	},
+	"Stringfish": {
+		"Location": "River (Clifftop)",
+		"Size": "5",
+		"Value": "15000",
+		"Time": [[16,9]],
+		"Months": [[12,3]]
+	},
+	"Salmon": {
+		"Location": "River (Mouth)",
+		"Size": "4",
+		"Value": "700",
+		"Time": [["All day"]],
+		"Months": [[9]]
+	},
+	"King salmon": {
+		"Location": "River (Mouth)",
+		"Size": "6",
+		"Value": "1800",
+		"Time": [["All day"]],
+		"Months": [[9]]
+	},
+	"Mitten crab": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "2000",
+		"Time": [[16,9]],
+		"Months": [[9,11]]
+	},
+	"Guppy": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "1300",
+		"Time": [[9,16]],
+		"Months": [[4,11]]
+	},
+	"Nibble fish": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "1500",
+		"Time": [[9,16]],
+		"Months": [[5,9]]
+	},
+	"Angelfish": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "3000",
+		"Time": [[16,9]],
+		"Months": [[5,10]]
+	},
+	"Betta": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "2500",
+		"Time": [[9,16]],
+		"Months": [[5,10]]
+	},
+	"Neon tetra": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "500",
+		"Time": [[9,16]],
+		"Months": [[4,11]]
+	},
+	"Rainbowfish": {
+		"Location": "River",
+		"Size": "1",
+		"Value": "800",
+		"Time": [[9,16]],
+		"Months": [[5,10]]
+	},
+	"Piranha": {
+		"Location": "River",
+		"Size": "2",
+		"Value": "2500",
+		"Time": [[9,16],[21,4]],
+		"Months": [[6,9]]
+	},
+	"Arowana": {
+		"Location": "River",
+		"Size": "4",
+		"Value": "10000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Dorado": {
+		"Location": "River",
+		"Size": "5",
+		"Value": "15000",
+		"Time": [[4,21]],
+		"Months": [[6,9]]
+	},
+	"Gar": {
+		"Location": "Pond",
+		"Size": "5",
+		"Value": "6000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Arapaima": {
+		"Location": "River",
+		"Size": "6",
+		"Value": "10000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Saddled bichir": {
+		"Location": "River",
+		"Size": "4",
+		"Value": "4000",
+		"Time": [[21,4]],
+		"Months": [[6,9]]
+	},
+	"Sturgeon": {
+		"Location": "River (Mouth)",
+		"Size": "6",
+		"Value": "10000",
+		"Time": [["All day"]],
+		"Months": [[9,3]]
+	},
+	"Sea butterfly": {
+		"Location": "Sea",
+		"Size": "1",
+		"Value": "1000",
+		"Time": [["All day"]],
+		"Months": [[12,3]]
+	},
+	"Sea horse": {
+		"Location": "Sea",
+		"Size": "1",
+		"Value": "1100",
+		"Time": [["All day"]],
+		"Months": [[4,11]]
+	},
+	"Clown fish": {
+		"Location": "Sea",
+		"Size": "1",
+		"Value": "650",
+		"Time": [["All day"]],
+		"Months": [[4,9]]
+	},
+	"Surgeonfish": {
+		"Location": "Sea",
+		"Size": "2",
+		"Value": "1000",
+		"Time": [["All day"]],
+		"Months": [[4,9]]
+	},
+	"Butterfly fish": {
+		"Location": "Sea",
+		"Size": "2",
+		"Value": "1000",
+		"Time": [["All day"]],
+		"Months": [[4,9]]
+	},
+	"Napoleonfish": {
+		"Location": "Sea",
+		"Size": "6",
+		"Value": "10000",
+		"Time": [[4,21]],
+		"Months": [[7,8]]
+	},
+	"Zebra turkeyfish": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "500",
+		"Time": [["All day"]],
+		"Months": [[4,11]]
+	},
+	"Blowfish": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "5000",
+		"Time": [[21,4]],
+		"Months": [[11,2]]
+	},
+	"Puffer fish": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "250",
+		"Time": [["All day"]],
+		"Months": [[7,9]]
+	},
+	"Anchovy": {
+		"Location": "Sea",
+		"Size": "2",
+		"Value": "200",
+		"Time": [[4,21]],
+		"Months": [["All year"]]
+	},
+	"Horse mackerel": {
+		"Location": "Sea",
+		"Size": "2",
+		"Value": "150",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Barred knifejaw": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "5000",
+		"Time": [["All day"]],
+		"Months": [[3,11]]
+	},
+	"Sea bass": {
+		"Location": "Sea",
+		"Size": "5",
+		"Value": "400",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Red snapper": {
+		"Location": "Sea",
+		"Size": "4",
+		"Value": "3000",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Dab": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "300",
+		"Time": [["All day"]],
+		"Months": [[10,4]]
+	},
+	"Olive flounder": {
+		"Location": "Sea",
+		"Size": "5",
+		"Value": "800",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Squid": {
+		"Location": "Sea",
+		"Size": "3",
+		"Value": "500",
+		"Time": [["All day"]],
+		"Months": [[12,8]]
+	},
+	"Moray eel": {
+		"Location": "Sea",
+		"Size": "Narrow",
+		"Value": "2000",
+		"Time": [["All day"]],
+		"Months": [[8,10]]
+	},
+	"Ribbon eel": {
+		"Location": "Sea",
+		"Size": "Narrow",
+		"Value": "600",
+		"Time": [["All day"]],
+		"Months": [[6,10]]
+	},
+	"Tuna": {
+		"Location": "Pier",
+		"Size": "6",
+		"Value": "7000",
+		"Time": [["All day"]],
+		"Months": [[11,4]]
+	},
+	"Blue marlin": {
+		"Location": "Pier",
+		"Size": "6",
+		"Value": "10000",
+		"Time": [["All day"]],
+		"Months": [[7,9],[11,4]]
+	},
+	"Giant trevally": {
+		"Location": "Pier",
+		"Size": "5",
+		"Value": "4500",
+		"Time": [["All day"]],
+		"Months": [[5,10]]
+	},
+	"Mahi-mahi": {
+		"Location": "Pier",
+		"Size": "5",
+		"Value": "6000",
+		"Time": [["All day"]],
+		"Months": [[5,10]]
+	},
+	"Ocean sunfish": {
+		"Location": "Sea",
+		"Size": "6 (Fin)",
+		"Value": "4000",
+		"Time": [[4,21]],
+		"Months": [[7,9]]
+	},
+	"Ray": {
+		"Location": "Sea",
+		"Size": "5",
+		"Value": "3000",
+		"Time": [[4,21]],
+		"Months": [[8,11]]
+	},
+	"Saw shark": {
+		"Location": "Sea",
+		"Size": "6 (Fin)",
+		"Value": "12000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Hammerhead shark": {
+		"Location": "Sea",
+		"Size": "6 (Fin)",
+		"Value": "8000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Great white shark": {
+		"Location": "Sea",
+		"Size": "6 (Fin)",
+		"Value": "15000",
+		"Time": [[16,9]],
+		"Months": [[6,9]]
+	},
+	"Whale shark": {
+		"Location": "Sea",
+		"Size": "6 (Fin)",
+		"Value": "13000",
+		"Time": [["All day"]],
+		"Months": [[6,9]]
+	},
+	"Suckerfish": {
+		"Location": "Sea",
+		"Size": "4 (Fin)",
+		"Value": "1500",
+		"Time": [["All day"]],
+		"Months": [[6,9]]
+	},
+	"Football fish": {
+		"Location": "Sea",
+		"Size": "4",
+		"Value": "2500",
+		"Time": [[16,9]],
+		"Months": [[11,3]]
+	},
+	"Oarfish": {
+		"Location": "Sea",
+		"Size": "6",
+		"Value": "9000",
+		"Time": [["All day"]],
+		"Months": [[12,5]]
+	},
+	"Barreleye": {
+		"Location": "Sea",
+		"Size": "2",
+		"Value": "15000",
+		"Time": [[21,4]],
+		"Months": [["All year"]]
+	},
+	"Coelacanth": {
+		"Location": "Sea (while raining)",
+		"Size": "6",
+		"Value": "15000",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Common butterfly": {
+		"Location": "Flying",
+		"Value": "160",
+		"Time": [[4,19]],
+		"Months": [[9,6]]
+	},
+	"Yellow butterfly": {
+		"Location": "Flying",
+		"Value": "160",
+		"Time": [[4,19]],
+		"Months": [[3,6],[9,10]
+		]
+	},
+	"Tiger butterfly": {
+		"Location": "Flying",
+		"Value": "240",
+		"Time": [[4,19]],
+		"Months": [[3,9]]
+	},
+	"Peacock butterfly": {
+		"Location": "Flying by Hybrid Flowers",
+		"Value": "2500",
+		"Time": [[4,19]],
+		"Months": [[3,6]]
+	},
+	"Common bluebottle": {
+		"Location": "Flying",
+		"Value": "300",
+		"Time": [[4,19]],
+		"Months": [[4,8]]
+	},
+	"Paper kite butterfly": {
+		"Location": "Flying",
+		"Value": "1000",
+		"Time": [[8,19]],
+		"Months": [["All year"]]
+	},
+	"Great purple emperor": {
+		"Location": "Flying",
+		"Value": "3000",
+		"Time": [[4,19]],
+		"Months": [[5,8]]
+	},
+	"Monarch butterfly": {
+		"Location": "Flying",
+		"Value": "140",
+		"Time": [[4,17]],
+		"Months": [[9,11]]
+	},
+	"Emperor butterfly": {
+		"Location": "Flying",
+		"Value": "4000",
+		"Time": [[17,8]],
+		"Months": [[6,9],[12,3]
+		]
+	},
+	"Agrias butterfly": {
+		"Location": "Flying",
+		"Value": "3000",
+		"Time": [[8,17]],
+		"Months": [[4,9]]
+	},
+	"Rajah brooke's birdwing": {
+		"Location": "Flying ",
+		"Value": "2500",
+		"Time": [[8,17]],
+		"Months": [[4,9],[12,2]
+		]
+	},
+	"Queen alexandra's birdwing": {
+		"Location": "Flying",
+		"Value": "4000",
+		"Time": [[8,16]],
+		"Months": [[5,9]]
+	},
+	"Moth": {
+		"Location": "Flying by Light",
+		"Value": "130",
+		"Time": [[19,4]],
+		"Months": [["All year"]]
+	},
+	"Atlas moth": {
+		"Location": "On Trees",
+		"Value": "3000",
+		"Time": [[19,4]],
+		"Months": [[4,9]]
+	},
+	"Madagascan sunset moth": {
+		"Location": "Flying",
+		"Value": "2500",
+		"Time": [[8,16]],
+		"Months": [[4,9]]
+	},
+	"Long locust": {
+		"Location": "On the Ground",
+		"Value": "200",
+		"Time": [[8,19]],
+		"Months": [[4,11]]
+	},
+	"Migratory locust": {
+		"Location": "On the Ground",
+		"Value": "600",
+		"Time": [[8,19]],
+		"Months": [[8,11]]
+	},
+	"Rice grasshopper": {
+		"Location": "On the Ground",
+		"Value": "160",
+		"Time": [[8,19]],
+		"Months": [[8,11]]
+	},
+	"Grasshopper": {
+		"Location": "On the Ground",
+		"Value": "160",
+		"Time": [[8,17]],
+		"Months": [[7,9]]
+	},
+	"Cricket": {
+		"Location": "On the Ground",
+		"Value": "130",
+		"Time": [[17,8]],
+		"Months": [[9,11]]
+	},
+	"Bell cricket": {
+		"Location": "On the Ground",
+		"Value": "430",
+		"Time": [[17,8]],
+		"Months": [[9,10]]
+	},
+	"Mantis": {
+		"Location": "On Flowers",
+		"Value": "430",
+		"Time": [[8,17]],
+		"Months": [[3,11]]
+	},
+	"Orchid mantis": {
+		"Location": "On Flowers (White)",
+		"Value": "2400",
+		"Time": [[8,17]],
+		"Months": [[3,11]]
+	},
+	"Honeybee": {
+		"Location": "Flying",
+		"Value": "200",
+		"Time": [[8,17]],
+		"Months": [[3,7]]
+	},
+	"Wasp": {
+		"Location": "Shaking Trees",
+		"Value": "2500",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Brown cicada": {
+		"Location": "On Trees",
+		"Value": "250",
+		"Time": [[8,17]],
+		"Months": [[7,8]]
+	},
+	"Robust cicada": {
+		"Location": "On Trees",
+		"Value": "300",
+		"Time": [[8,17]],
+		"Months": [[7,8]]
+	},
+	"Giant cicada": {
+		"Location": "On Trees",
+		"Value": "500",
+		"Time": [[8,17]],
+		"Months": [[7,8]]
+	},
+	"Walker cicada": {
+		"Location": "On Trees",
+		"Value": "400",
+		"Time": [[8,17]],
+		"Months": [[8,9]]
+	},
+	"Evening cicada": {
+		"Location": "On Trees",
+		"Value": "550",
+		"Time": [[4,8],[16,19]],
+		"Months": [[7,8]]
+	},
+	"Cicada shell": {
+		"Location": "On Trees",
+		"Value": "10",
+		"Time": [["All day"]],
+		"Months": [[7,8]]
+	},
+	"Red dragonfly": {
+		"Location": "Flying",
+		"Value": "180",
+		"Time": [[8,19]],
+		"Months": [[9,10]]
+	},
+	"Darner dragonfly": {
+		"Location": "Flying",
+		"Value": "230",
+		"Time": [[8,17]],
+		"Months": [[4,10]]
+	},
+	"Banded dragonfly": {
+		"Location": "Flying",
+		"Value": "4500",
+		"Time": [[8,17]],
+		"Months": [[5,10]]
+	},
+	"Damselfly": {
+		"Location": "Flying",
+		"Value": "500",
+		"Time": [["All day"]],
+		"Months": [[11,2]]
+	},
+	"Firefly": {
+		"Location": "Flying",
+		"Value": "300",
+		"Time": [[19,4]],
+		"Months": [[6]]
+	},
+	"Mole cricket": {
+		"Location": "Underground",
+		"Value": "500",
+		"Time": [["All day"]],
+		"Months": [[11,5]]
+	},
+	"Pondskater": {
+		"Location": "On Ponds and Rivers",
+		"Value": "130",
+		"Time": [[8,19]],
+		"Months": [[5,9]]
+	},
+	"Diving beetle": {
+		"Location": "On Ponds and Rivers",
+		"Value": "800",
+		"Time": [[8,19]],
+		"Months": [[5,9]]
+	},
+	"Giant water bug": {
+		"Location": "On Ponds and Rivers",
+		"Value": "2000",
+		"Time": [[19,8]],
+		"Months": [[4,9]]
+	},
+	"Stinkbug": {
+		"Location": "On Flowers",
+		"Value": "120",
+		"Time": [["All day"]],
+		"Months": [[3,10]]
+	},
+	"Man-faced stink bug": {
+		"Location": "On Flowers",
+		"Value": "1000",
+		"Time": [[19,8]],
+		"Months": [[3,10]]
+	},
+	"Ladybug": {
+		"Location": "On Flowers",
+		"Value": "200",
+		"Time": [[8,17]],
+		"Months": [[3,6],[10,10]
+		]
+	},
+	"Tiger beetle": {
+		"Location": "On the Ground",
+		"Value": "1500",
+		"Time": [["All day"]],
+		"Months": [[2,10]]
+	},
+	"Jewel beetle": {
+		"Location": "On Tree Stumps",
+		"Value": "2400",
+		"Time": [["All day"]],
+		"Months": [[4,8]]
+	},
+	"Violin beetle": {
+		"Location": "On Tree Stumps",
+		"Value": "450",
+		"Time": [["All day"]],
+		"Months": [[5,6],[9,11]
+		]
+	},
+	"Citrus long-horned beetle": {
+		"Location": "On Tree Stumps",
+		"Value": "350",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Rosalia batesi beetle": {
+		"Location": "On Tree Stumps",
+		"Value": "3000",
+		"Time": [["All day"]],
+		"Months": [[5,9]]
+	},
+	"Blue weevil beetle": {
+		"Location": "On Trees (Coconut?)",
+		"Value": "800",
+		"Time": [["All day"]],
+		"Months": [[7,8]]
+	},
+	"Dung beetle": {
+		"Location": "On the Ground (rolling snowballs)",
+		"Value": "3000",
+		"Time": [["All day"]],
+		"Months": [[12,2]]
+	},
+	"Earth-boring dung beetle": {
+		"Location": "On the Ground",
+		"Value": "300",
+		"Time": [["All day"]],
+		"Months": [[7,9]]
+	},
+	"Scarab beetle": {
+		"Location": "On Trees",
+		"Value": "10000",
+		"Time": [[23,8]],
+		"Months": [[7,8]]
+	},
+	"Drone beetle": {
+		"Location": "On Trees",
+		"Value": "200",
+		"Time": [["All day"]],
+		"Months": [[6,8]]
+	},
+	"Goliath beetle": {
+		"Location": "On Trees (Coconut)",
+		"Value": "8000",
+		"Time": [[17,8]],
+		"Months": [[6,9]]
+	},
+	"Saw stag": {
+		"Location": "On Trees",
+		"Value": "2000",
+		"Time": [["All day"]],
+		"Months": [[7,8]]
+	},
+	"Miyama stag": {
+		"Location": "On Trees",
+		"Value": "1000",
+		"Time": [["All day"]],
+		"Months": [[7,8]]
+	},
+	"Giant stag": {
+		"Location": "On Trees",
+		"Value": "10000",
+		"Time": [[23,8]],
+		"Months": [[7,8]]
+	},
+	"Rainbow stag": {
+		"Location": "On Trees",
+		"Value": "6000",
+		"Time": [[19,8]],
+		"Months": [[6,9]]
+	},
+	"Cyclommatus stag": {
+		"Location": "On Trees (Coconut)",
+		"Value": "8000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Golden stag": {
+		"Location": "On Trees (Coconut)",
+		"Value": "12000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Giraffe stag": {
+		"Location": "On Trees (Coconut?)",
+		"Value": "12000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Horned dynastid": {
+		"Location": "On Trees",
+		"Value": "1350",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Horned atlas": {
+		"Location": "On Trees (Coconut)",
+		"Value": "8000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Horned elephant": {
+		"Location": "On Trees (Coconut)",
+		"Value": "8000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Horned hercules": {
+		"Location": "On Trees (Coconut)",
+		"Value": "12000",
+		"Time": [[17,8]],
+		"Months": [[7,8]]
+	},
+	"Walking stick": {
+		"Location": "On Trees",
+		"Value": "600",
+		"Time": [[4,8],[17,19]],
+		"Months": [[7,11]]
+	},
+	"Walking leaf": {
+		"Location": "Under Trees Disguised as Leafs",
+		"Value": "600",
+		"Time": [["All day"]],
+		"Months": [[7,9]]
+	},
+	"Bagworm": {
+		"Location": "Shaking Trees",
+		"Value": "600",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Ant": {
+		"Location": "On rotten food",
+		"Value": "80",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Hermit crab": {
+		"Location": "Beach disguised as Shells",
+		"Value": "1000",
+		"Time": [[19,8]],
+		"Months": [["All year"]]
+	},
+	"Wharf roach": {
+		"Location": "On Beach Rocks",
+		"Value": "200",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Fly": {
+		"Location": "On Trash Items",
+		"Value": "60",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Mosquito": {
+		"Location": "Flying",
+		"Value": "130",
+		"Time": [[17,4]],
+		"Months": [[6,9]]
+	},
+	"Flea": {
+		"Location": "Villager's Heads",
+		"Value": "70",
+		"Time": [["All day"]],
+		"Months": [[4,11]]
+	},
+	"Snail": {
+		"Location": "On Rocks (Rain)",
+		"Value": "250",
+		"Time": [["All day"]],
+		"Months": [["All year"]]
+	},
+	"Pill bug": {
+		"Location": "Hitting Rocks",
+		"Value": "250",
+		"Time": [[23,16]],
+		"Months": [[9,6]]
+	},
+	"Centipede": {
+		"Location": "Hitting Rocks",
+		"Value": "300",
+		"Time": [[16,23]],
+		"Months": [[9,6]]
+	},
+	"Spider": {
+		"Location": "Shaking Trees",
+		"Value": "600",
+		"Time": [[19,8]],
+		"Months": [["All year"]]
+	},
+	"Tarantula": {
+		"Location": "On the Ground",
+		"Value": "8000",
+		"Time": [[19,4]],
+		"Months": [[11,4]]
+	},
+	"Scorpion": {
+		"Location": "On the Ground",
+		"Value": "8000",
+		"Time": [[19,4]],
+		"Months": [[5,10]]
+	}
+}
